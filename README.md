@@ -1,5 +1,6 @@
-<img width="1318" height="786" alt="Ekran görüntüsü 2026-07-31 021321" src="https://github.com/user-attachments/assets/476fa4ee-29dc-41b8-a5a4-eda7d43432a2" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e6cd164-1503-4a4f-bb05-cb5ff7532f61" width="900" alt="Fraud Detection Dashboard">
+</p>
 # Fraud Detection Analytics Pipeline
 
 ## Overview
