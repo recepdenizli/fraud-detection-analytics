@@ -136,3 +136,15 @@ Interactive filters:
 * Data Visualization
 * Dashboard Design
 * Business Storytelling
+
+## 🔗 Project Resources
+
+### Google Sheets Analysis
+Explore the exploratory data analysis, XLOOKUP integration, and Pivot Tables.
+
+https://docs.google.com/spreadsheets/d/1RVIzp7viqSIx_gIh5nwz5NEoH2566Yc0/edit?usp=sharing
+
+### Tableau Public Dashboard
+Explore the interactive fraud analytics dashboard.
+
+https://public.tableau.com/app/profile/recep.denizli/viz/FraudAnalysis_17844523307010/Dashboard1
