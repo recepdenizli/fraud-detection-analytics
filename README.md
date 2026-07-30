@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6e6cd164-1503-4a4f-bb05-cb5ff7532f61" width="900" alt="Fraud Detection Dashboard">
-</p>
+<img src="https://github.com/user-attachments/assets/e73038a8-e9bc-40df-a8e4-37a04f6bce05" width="850" alt="Fraud Detection Dashboard">
+
 # Fraud Detection Analytics Pipeline
 
 ## Overview
